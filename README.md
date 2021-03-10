@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...Engineer||Competitive Programmer
 ---
-###Send me a message!
+### Send me a message!
 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't send me a message anyway! Here is Where you can find me:
 <p><a href="https://www.linkedin.com/in/shubham-tomar-536283157/">
   <img src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logocolor=white&style=for-the-badge"/></a>
@@ -24,7 +24,7 @@ I am open for collaborations, so if you find my work interesting feel free to se
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.twitter.com/tomarshabh2199/">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a></p>
----
+
 
 ### Github Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomarshabh2199)](https://github.com/tomarshabh2199/github-readme-stats)
