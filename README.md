@@ -24,9 +24,9 @@ I am open for collaborations, so if you find my work interesting feel free to se
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.twitter.com/tomarshabh2199/">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a></p>
-
-
+  
 ### Github Stats 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomarshabh2199&show_icons=true&theme=onedark)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomarshabh2199&layout=compact)](https://github.com/tomarshabh2199/github-readme-stats)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomarshabh2199&show_icons=true&theme=onedark)
 
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomarshabh2199&layout=compact)](https://github.com/tomarshabh2199/github-readme-stats)-->
 <!-- [![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomarshabh2199)](https://github.com/tomarshabh2199/github-readme-stats)-->
