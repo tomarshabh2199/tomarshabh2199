@@ -1,7 +1,9 @@
 <center><img src="2.jpg"></center>
 
-### Hi there I am a Software Developer at Nagarro👋
+### Hi there Welcome to my Github Page👋👋
 
+I am Shubham Tomar Software Developer at Nagarro
+---
 
 Here are some ideas to get you started:
 
