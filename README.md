@@ -27,4 +27,4 @@ I am open for collaborations, so if you find my work interesting feel free to se
 
 
 ### Github Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomarshabh2199)](https://github.com/tomarshabh2199/github-readme-stats)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOMARSHABH2199&show_icons=true&theme=onedark)
