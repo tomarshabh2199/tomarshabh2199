@@ -28,3 +28,5 @@ I am open for collaborations, so if you find my work interesting feel free to se
 
 ### Github Stats 
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=TOMARSHABH2199&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomarshabh2199&layout=compact)](https://github.com/tomarshabh2199/github-readme-stats)
