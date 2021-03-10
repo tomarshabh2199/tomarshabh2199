@@ -1,3 +1,5 @@
+<center><img src="2.jpg"></center>
+
 ### Hi there I am a Software Developer at Nagarro👋
 
 
