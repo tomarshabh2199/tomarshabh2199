@@ -2,7 +2,33 @@
 
 ### Hi there Welcome to my Github Page👋👋
 
-I am Shubham Tomar Software Developer at Nagarro
+I am a .Net Developer working Professional at Nagarro
+---
+
+
+Frontend Technolgies- React, TypeScript, Javascript, Html5, CSS/SCSS, BootStrap
+Backend TechStack-C#, C++, C, Python, Java, NodeJs,
+Framework- Asp.Net, Django
+Database-SQL, NoSql, Mysql, MongoDB, FireBase/FireStore
+Operating System-Windows, Linux
+Apis-Rest WEB API/SOAP
+Testing-Jmeter, Cypress, Jest(Js Testing), React Testing Library(RTL)
+
+And I also a good Competitive Programmer and having strong knowledge of Data Structures and Algorithms, Computer Networking and I have a field of interest in Computer Vision, Artificial Intelligence, Programming languages and Formal Methods.
+
+Programming Handle-
+1. LeetCode-https://leetcode.com/tomarshubham1357/
+2. GeeksForGeeks-https://auth.geeksforgeeks.org/user/tomarshabh2199/practice/
+3. CodeChef-https://www.codechef.com/users/tomarshubham
+4. HackerRank-https://www.hackerrank.com/tomarshabh2199
+5. HackerEarth-https://www.hackerearth.com/@tomarshabh2199
+6. InterViewBit-https://www.interviewbit.com/profile/tomarshubham13573787
+
+Social Media Handle
+Instagram-
+Discord-
+Telegram-
+
 ---
 
 Here are some ideas to get you started:
