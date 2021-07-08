@@ -6,28 +6,28 @@ I am a .Net Developer working Professional at Nagarro
 ---
 
 
-Frontend Technolgies- React, TypeScript, Javascript, Html5, CSS/SCSS, BootStrap
-Backend TechStack-C#, C++, C, Python, Java, NodeJs,
-Framework- Asp.Net, Django
-Database-SQL, NoSql, Mysql, MongoDB, FireBase/FireStore
-Operating System-Windows, Linux
-Apis-Rest WEB API/SOAP
-Testing-Jmeter, Cypress, Jest(Js Testing), React Testing Library(RTL)
+Frontend Technolgies- React, TypeScript, Javascript, Html5, CSS/SCSS, BootStrap <br/>
+Backend TechStack-C#, C++, C, Python, Java, NodeJs  <br/> 
+Framework- Asp.Net, Django  <br/>
+Database-SQL, NoSql, Mysql, MongoDB, FireBase/FireStore  <br/>
+Operating System-Windows, Linux  <br/>
+Apis-Rest WEB API/SOAP  <br/>
+Testing-Jmeter, Cypress, Jest(Js Testing), React Testing Library(RTL)  <br/>
 
-And I also a good Competitive Programmer and having strong knowledge of Data Structures and Algorithms, Computer Networking and I have a field of interest in Computer Vision, Artificial Intelligence, Programming languages and Formal Methods.
+And I also a good Competitive Programmer and having strong knowledge of Data Structures and Algorithms, Computer Networking and I have a field of interest in Computer Vision, Artificial Intelligence, Programming languages and Formal Methods.  <br/>
 
 Programming Handle-
-1. LeetCode-https://leetcode.com/tomarshubham1357/
-2. GeeksForGeeks-https://auth.geeksforgeeks.org/user/tomarshabh2199/practice/
-3. CodeChef-https://www.codechef.com/users/tomarshubham
-4. HackerRank-https://www.hackerrank.com/tomarshabh2199
-5. HackerEarth-https://www.hackerearth.com/@tomarshabh2199
-6. InterViewBit-https://www.interviewbit.com/profile/tomarshubham13573787
+1. LeetCode-https://leetcode.com/tomarshubham1357/  <br/>
+2. GeeksForGeeks-https://auth.geeksforgeeks.org/user/tomarshabh2199/practice/ <br/>
+3. CodeChef-https://www.codechef.com/users/tomarshubham  <br/>
+4. HackerRank-https://www.hackerrank.com/tomarshabh2199  <br/>
+5. HackerEarth-https://www.hackerearth.com/@tomarshabh2199  <br/>
+6. InterViewBit-https://www.interviewbit.com/profile/tomarshubham13573787  <br/>
 
 Social Media Handle
-Instagram-
-Discord-
-Telegram-
+Instagram-  <br/>
+Discord-  <br/>
+Telegram-  <br/>
 
 ---
 
