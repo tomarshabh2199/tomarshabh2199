@@ -6,9 +6,9 @@ I am a .Net Developer working Professional at Nagarro
 ---
 
 
-Frontend Technolgies- React, TypeScript, Javascript, Html5, CSS/SCSS, BootStrap <br/>
+Frontend Technolgies- React, TypeScript, Javascript, Angular, Html5, CSS/SCSS, BootStrap <br/>
 Backend TechStack-C#, C++, C, Python, Java, NodeJs  <br/> 
-Framework- Asp.Net, Django  <br/>
+Framework- Asp.Net, Asp.NET MVC, Django  <br/>
 Database-SQL, NoSql, Mysql, MongoDB, FireBase/FireStore  <br/>
 Operating System-Windows, Linux  <br/>
 Apis-Rest WEB API/SOAP  <br/>
