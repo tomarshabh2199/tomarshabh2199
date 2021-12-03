@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything you want
 - 📫 How to reach me: ...https://www.linkedin.com/in/shubham-tomar-536283157/
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...Engineer || Competitive Programmer
+- ⚡ Fun fact: ... Software Engineer || Competitive Programmer
 ---
 ### Send me a message!
 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't send me a message anyway! Here is Where you can find me:
