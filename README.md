@@ -15,7 +15,6 @@ Operating System-Windows, Linux  <br/>
 Apis-Rest WEB API/SOAP  <br/>
 Project Management Tools & Methodologies- JIRA and Rally & Agile and Scrum.
 Testing- NUnit, Jmeter, Cypress, Jest(Js Testing), React Testing Library(RTL)  <br/>
-![13](https://user-images.githubusercontent.com/44699205/144603113-cacca134-aa5a-452f-9bab-30ef578a8760.jpg)
 
 And I also a good Competitive Programmer and having strong knowledge of Data Structures and Algorithms, Computer Networking and I have a field of interest in Computer Vision, Artificial Intelligence, Programming languages and Formal Methods.  <br/>
 
