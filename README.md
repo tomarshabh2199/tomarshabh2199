@@ -2,17 +2,18 @@
 
 ### Hi there Welcome to my Github Page👋👋
 
-I am a .Net Developer working Professional at Nagarro
+I am a .Net FullStack Developer working Professional at Nagarro
 ---
 
 
 Frontend Technolgies- React, TypeScript, Javascript, Angular, Html5, CSS/SCSS, BootStrap <br/>
 Backend TechStack-C#, C++, C, Python, Java, NodeJs  <br/> 
 Framework- Asp.Net, Asp.NET MVC, Django  <br/>
-Database-SQL, NoSql, Mysql, MongoDB, FireBase/FireStore  <br/>
+Database-SQL Server, NoSql, Mysql, MongoDB, FireBase/FireStore  <br/>
 Operating System-Windows, Linux  <br/>
 Apis-Rest WEB API/SOAP  <br/>
-Testing-Jmeter, Cypress, Jest(Js Testing), React Testing Library(RTL)  <br/>
+Project Management Tools & Methodologies- JIRA and Rally & Agile and Scrum.
+Testing- NUnit, Jmeter, Cypress, Jest(Js Testing), React Testing Library(RTL)  <br/>
 
 And I also a good Competitive Programmer and having strong knowledge of Data Structures and Algorithms, Computer Networking and I have a field of interest in Computer Vision, Artificial Intelligence, Programming languages and Formal Methods.  <br/>
 
@@ -35,12 +36,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Nagarro
 - 🌱 I’m currently learning ... Data Structures and Algorithms
-- 👯 I’m looking to collaborate on ... Dotnet Technology
+- 👯 I’m looking to collaborate on ... Microsoft Technologies
 - 🤔 I’m looking for help with ... Software Development
 - 💬 Ask me about ...Anything you want
 - 📫 How to reach me: ...https://www.linkedin.com/in/shubham-tomar-536283157/
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...Engineer||Competitive Programmer
+- ⚡ Fun fact: ...Engineer || Competitive Programmer
 ---
 ### Send me a message!
 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't send me a message anyway! Here is Where you can find me:
