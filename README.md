@@ -1,4 +1,5 @@
 <center><img src="2.jpg"></center>
+<img src="2.jpeg">
 
 ### Hi there Welcome to my Github Page👋👋
 
