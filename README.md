@@ -8,23 +8,23 @@ I am a .Net FullStack Developer working Professional at Nagarro
 
 
 Frontend Technolgies- React, TypeScript, Javascript, Angular 9, Html5, CSS/SCSS, BootStrap <br/>
-Backend TechStack-C#, C++, C, Python, Java, NodeJs  <br/> 
+Backend TechStack- C#, C++, C, Python, Java, NodeJs  <br/> 
 Framework- ASP.NET, Asp.NET MVC, Django  <br/>
-Database-SQL Server, NoSql, Mysql, MongoDB, FireBase/FireStore  <br/>
+Database- SQL Server, NoSql, Mysql, MongoDB, FireBase/FireStore  <br/>
 Operating System-Windows, Linux  <br/>
-APIs-Rest WEB API/SOAP  <br/>
+APIs- Rest WEB API/SOAP  <br/>
 Project Management Tools & Methodologies- JIRA and Rally & Agile and Scrum.
 Testing- NUnit, Jmeter, Cypress, Jest(Js Testing), React Testing Library(RTL)  <br/>
 
 And I also a good Competitive Programmer and having strong knowledge of Data Structures and Algorithms, Computer Networking and I have a field of interest in Computer Vision, Artificial Intelligence, Programming languages and Formal Methods.  <br/>
 
 Programming Handle-
-1. LeetCode-https://leetcode.com/tomarshubham1357/  <br/>
-2. GeeksForGeeks-https://auth.geeksforgeeks.org/user/tomarshabh2199/practice/ <br/>
-3. CodeChef-https://www.codechef.com/users/tomarshubham  <br/>
-4. HackerRank-https://www.hackerrank.com/tomarshabh2199  <br/>
-5. HackerEarth-https://www.hackerearth.com/@tomarshabh2199  <br/>
-6. InterViewBit-https://www.interviewbit.com/profile/tomarshubham13573787  <br/>
+1. LeetCode- https://leetcode.com/tomarshubham1357/  <br/>
+2. GeeksForGeeks- https://auth.geeksforgeeks.org/user/tomarshabh2199/practice/ <br/>
+3. CodeChef- https://www.codechef.com/users/tomarshubham  <br/>
+4. HackerRank- https://www.hackerrank.com/tomarshabh2199  <br/>
+5. HackerEarth- https://www.hackerearth.com/@tomarshabh2199  <br/>
+6. InterViewBit- https://www.interviewbit.com/profile/tomarshubham13573787  <br/>
 
 Social Media Handle <br/>
 Instagram-  <br/>
