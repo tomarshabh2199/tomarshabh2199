@@ -13,7 +13,7 @@ Framework- ASP.NET, ASP.NET MVC, .NET Framework  <br/>
 Database- SQL Server, NoSql, Mysql, MongoDB, FireBase/FireStore  <br/>
 Operating System- Windows, Linux  <br/>
 APIs- Rest WEB API/SOAP  <br/>
-Project Management Tools & Methodologies- JIRA and Rally & Agile and Scrum.
+Project Management Tools & Methodologies- JIRA and Rally & Agile and Scrum. <br/>
 Testing- NUnit, Jmeter, Cypress, Jest(Js Testing), React Testing Library(RTL)  <br/>
 
 And I also a good Competitive Programmer and having strong knowledge of Data Structures and Algorithms, Computer Networking and I have a field of interest in Computer Vision, Artificial Intelligence, Programming languages and Formal Methods.  <br/>
