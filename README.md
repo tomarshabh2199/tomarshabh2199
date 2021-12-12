@@ -8,10 +8,10 @@ I am a .Net FullStack Developer working Professional at Nagarro
 
 
 Frontend Technolgies- React, TypeScript, Javascript, Angular 9, Html5, CSS/SCSS, BootStrap <br/>
-Backend TechStack- C#, C++, C, Python, Java, NodeJs  <br/> 
-Framework- ASP.NET, Asp.NET MVC, Django  <br/>
+Backend TechStack- C#, C++, C, Java, NodeJs  <br/> 
+Framework- ASP.NET, Asp.NET MVC, .NET Framework  <br/>
 Database- SQL Server, NoSql, Mysql, MongoDB, FireBase/FireStore  <br/>
-Operating System-Windows, Linux  <br/>
+Operating System- Windows, Linux  <br/>
 APIs- Rest WEB API/SOAP  <br/>
 Project Management Tools & Methodologies- JIRA and Rally & Agile and Scrum.
 Testing- NUnit, Jmeter, Cypress, Jest(Js Testing), React Testing Library(RTL)  <br/>
