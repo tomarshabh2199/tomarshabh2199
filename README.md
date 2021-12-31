@@ -27,9 +27,9 @@ Programming Handle-
 6. InterViewBit - https://www.interviewbit.com/profile/tomarshubham13573787  <br/>
 
 Social Media Handle <br/>
-Instagram-  <br/>
-Discord-  <br/>
-Telegram-  <br/>
+Instagram -  <br/>
+Discord -  <br/>
+Telegram -  <br/>
 
 ---
 
