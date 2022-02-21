@@ -3,7 +3,7 @@
 
 ### Hi there Welcome to my Github Page👋👋
 
-I am a .Net FullStack Developer working Professional at Nagarro
+I am a .Net FullStack Developer working Professional at Deloitte
 ---
 
 
@@ -35,7 +35,7 @@ Telegram -  <br/>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Nagarro
+- 🔭 I’m currently working on ... Deloitte
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 👯 I’m looking to collaborate on ... Microsoft Technologies
 - 🤔 I’m looking for help with ... Software Development
