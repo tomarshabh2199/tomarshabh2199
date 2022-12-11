@@ -3,7 +3,7 @@
 
 ### Hi there Welcome to my Github Page👋👋
 
-I am a .Net FullStack Developer working Professional at Deloitte
+I am a .Net FullStack Developer working Professional at Deloitte USI
 ---
 
 
@@ -36,13 +36,13 @@ Telegram -  <br/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Deloitte
-- 🌱 I’m currently learning ... Data Structures and Algorithms
+- 🌱 I’m currently learning ... Data Structures and Algorithms and Data Science
 - 👯 I’m looking to collaborate on ... Microsoft Technologies
 - 🤔 I’m looking for help with ... Software Development
 - 💬 Ask me about ...Anything you want
 - 📫 How to reach me: ...https://www.linkedin.com/in/shubham-tomar-536283157/
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Software Engineer || Competitive Programmer
+- ⚡ Fun fact: ... Software Engineer || Competitive Programmer || ML Engineer
 ---
 ### Send me a message!
 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't send me a message anyway! Here is Where you can find me:
