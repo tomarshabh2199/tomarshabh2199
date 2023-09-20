@@ -3,7 +3,7 @@
 
 ### Hi there Welcome to my Github Page👋👋
 
-I am a .Net FullStack Developer working Professional at Deloitte USI
+I am a .Net FullStack Developer
 ---
 
 
@@ -35,7 +35,7 @@ Telegram -  <br/>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Deloitte
+- 🔭 I’m currently working on ... Altus (ValueLabs)
 - 🌱 I’m currently learning ... Data Structures and Algorithms and Data Science
 - 👯 I’m looking to collaborate on ... Microsoft Technologies
 - 🤔 I’m looking for help with ... Software Development
