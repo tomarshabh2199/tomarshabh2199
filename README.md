@@ -1,4 +1,4 @@
-<img src="2.jpg">  <img src="13.jpg" height="170px" width="240px"> <img src="17.png" height="170px" width="240px">
+<img src="2.jpg">  <img src="13.jpg" height="170px" width="220px"> <img src="17.png" height="170px" width="230px">
 
 
 ### Hi there Welcome to my Github Page👋👋
